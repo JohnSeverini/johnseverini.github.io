@@ -1,0 +1,41 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.page-banner}
+![](images/banner.png)
+
+[Policy Writing]{.banner-title}
+:::
+
+::: {.page-content}
+
+## Commentary
+
+::: {.pub-entry}
+[**Digital Frontiers, Corporate Sovereignty, and the Future of the CEO**](https://www.corporate-political-responsibility.org/post/second-place-essay-2024-by-john-severini). *Corporate Political Responsibility*, February 27, 2024.
+:::
+
+## Policy Reports
+
+::: {.pub-entry}
+**[Empirical Analysis for Meeting Great Power Challenges](https://apps.dtic.mil/sti/html/trecms/AD1220530/)** (with Stephen Biddle, Eli Berman, Eric Min, Laura Samotin, and Meyer Thalheimer). Office of Naval Research. February 1, 2024.
+
+<details class="pub-abstract">
+<summary>Abstract</summary>
+The project is intended to support the National Defense Strategy by identifying factors that will shape the ability of great powers such as China or Russia to use new technology and new strategies effectively. It does this by exploiting new data sources and novel research methodologies to build stronger theories of combat outcomes in modern great power warfare. From these findings, we draw implications for U.S. policies to deter such rivals, and to project power successfully if deterrence fails.
+</details>
+:::
+
+::: {.pub-entry}
+[**Assessing the Reliability of the Future Years Defense Program and Building a Forecast**](https://calhoun.nps.edu/handle/10945/68118) (with Andrew Hunter and Gregory Sanders). Acquisition Research Program, May 10, 2021.
+
+<details class="pub-abstract">
+<summary>Abstract</summary>
+Discerning, negotiating, and communicating priorities are necessary tasks for the U.S. defense acquisition system to effectively implement its portion of the National Defense Strategy. One of the Department of Defense's central tools for doing so is the Future Years Defense Plan (FYDP), a projection of the cost and composition of the force over the next 5 years. This project created a dataset and employs it to study FYDP reliability, focusing on two sources of uncertainty: differences in approach between military departments and differences in volatility between those line items in the base budget and those that include contingency operation spending.
+</details>
+:::
+
+:::

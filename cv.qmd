@@ -1,0 +1,19 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.page-banner}
+![](images/banner.png)
+
+[CV]{.banner-title}
+:::
+
+::: {.page-content .cv-centered}
+For the most recent copy of my CV, click here:
+
+**[Curriculum Vitae](files/John_Severini-CV.pdf)**
+
+Updated as of December 23, 2025
+:::

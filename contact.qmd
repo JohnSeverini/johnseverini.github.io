@@ -1,0 +1,43 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.page-banner}
+![](images/banner.png)
+
+[Contact]{.banner-title}
+:::
+
+::: {.page-content .contact-centered}
+
+::: {.contact-links}
+
+::: {.contact-section}
+Email: [jcs386@georgetown.edu](mailto:jcs386@georgetown.edu)\
+[Georgetown360](https://gufaculty360.georgetown.edu/s/contact/0031Q00002ZhqZjQAJ/john-severini)
+:::
+
+::: {.contact-section}
+X: [\@john_severini](http://twitter.com/john_severini)\
+Bluesky: [\@johnseverini.bsky.social](https://bsky.app/profile/johnseverini.bsky.social)\
+Substack: [\@johnseverini](https://substack.com/@johnseverini?)
+:::
+
+::: {.contact-section}
+[LinkedIn](https://www.linkedin.com/in/john-severini-154b42146/)\
+[GitHub](https://github.com/JohnSeverini)
+:::
+
+::: {.contact-section}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=JbXtQqMAAAAJ)\
+[ResearchGate](https://www.researchgate.net/profile/John-Severini)\
+[PhilPapers](https://philpeople.org/profiles/john-severini)\
+[ORCID](https://orcid.org/0000-0002-3676-7225)\
+[RePEc](https://authors.repec.org/pro/pse830/)\
+[SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6898930)
+:::
+
+:::
+:::

@@ -1,0 +1,17 @@
+---
+title: ""
+page-layout: custom
+toc: false
+---
+
+::: {.hero-section}
+![](images/hero.png){.hero-bg}
+
+::: {.hero-overlay}
+:::
+
+::: {.hero-content}
+I'm John Severini, a PhD student at Georgetown University's department of Government and a co-founder of Georgetown's [Initiative on Artificial Intelligence and Democratic Citizenship](https://aidc.georgetown.edu/). My research primarily centers on technology, military effectiveness, and the relationship between the state and the private sector. I also write about political methodology, specifically focusing on mixed methods integration and the growing role of AI as a tool in social science. My work has been published or is forthcoming at *International Security*, *Security Studies*, and *Oxford Intersections: AI in Society*.
+:::
+
+:::

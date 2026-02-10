@@ -1,0 +1,27 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.page-banner}
+![](images/banner.png)
+
+[Data]{.banner-title}
+:::
+
+::: {.page-content}
+
+## NAVBATTLE
+
+*[Available on Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HGZGCY) as replication data for ["Military Effectiveness and Naval Warfare."](https://www.tandfonline.com/doi/abs/10.1080/09636412.2024.2363533)*
+
+NAVBATTLE is a new dataset for naval warfare. It is made up of two interlocking datasets: *Ships* and *Battles*, both of which can be found in the main NAVBATTLE file.
+
+The *Ships* dataset details information on 10,396 warships constructed as early as 1623. It includes all warships that participated in at least one battle that meets the NAVBATTLE inclusion criteria. It lists a variety of information about these individual ships including their given name, class, armaments, and combat experience. The *Battles* dataset aggregates all its material and complement values from the Ships dataset.
+
+The *Battles* dataset details information on 573 naval engagements beginning in the year 1649 and ending in the year 1988. It includes all 573 known oceangoing interstate surface naval battles between 1649 and 1988 with at least three major surface warships engaged and at least one on each side. The data encompass all 43 wars and conflicts with battles that meet these inclusion criteria. "Major surface warships" are defined as frigates or larger combatants in the Age of Sail, destroyers or larger combatants in the Age of Steam, and long-range anti-ship missile equipped vessels of at least 65 tons displacement in the post-World War II era. Battles involving submarines, aircraft, mines, and coastal artillery are included if they meet the surface-warship inclusion criterion, but not otherwise. Naval shore bombardments without hostile surface warships are thus excluded, as are aerial battles without surface warships on both sides (aircraft carriers are considered surface warships) and submarine attacks on merchant ships where the action did not involve at least one surface warship on each side. These NAVBATTLE data include observations on losses in ships, personnel, and tonnage; victories, defeats, and draws; battle duration; material balances in ships, guns, and displacement; battle dates and geo-coded locations; and identification of commanders and nationalities. Codings for victories, defeats, and draws represent consensus views among historical accounts, and reflect the relationship between battle outcomes and combatant objectives.
+
+NAVBATTLE also includes a Battle Visualizer that combines the *Ships* and *Battles* datasets together for a useful visual aid showing all ships present in each battle.
+
+:::

@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "research.html#peer-reviewed-publications",
+    "href": "research.html#peer-reviewed-publications",
+    "title": "John Severini",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\nTechnology, Behavior, and Effectiveness in Naval Warfare: The Battles of Savo Island and Cape Saint George (with Stephen Biddle). International Security, forthcoming.\n\n\nMaking AI Inevitable: Historical Perspective and the Problems of Predicting Long-Term Technological Change (with Mark Fisher). Oxford Intersections: AI in Society. 2025.\nPreprint available on arXiv / SSRN.\n\n\nAbstract\n\nThis article demonstrates the extent to which prominent debates about the future of AI are best understood as subjective, philosophical disagreements over the history and future of technological change rather than as objective, material disagreements over the technologies themselves. It focuses on the deep disagreements over whether artificial general intelligence (AGI) will prove transformative for human society—a question that is analytically prior to that of whether this transformative effect will help or harm humanity. The article begins by distinguishing two fundamental camps in this debate. The first of these can be identified as “transformationalists,” who argue that continued AI development will inevitably have a profound effect on society. Opposed to them are “skeptics,” a more eclectic group united by their disbelief that AI can or will live up to such high expectations. Each camp admits further “strong” and “weak” variants depending on their tolerance for epistemic risk. These stylized contrasts help identify a set of fundamental questions that shape the camps’ respective interpretations of the future of AI. Three questions in particular are focused on: the possibility of nonbiological intelligence, the appropriate time frame of technological predictions, and the assumed trajectory of technological development. In highlighting these specific points of nontechnical disagreement, this article demonstrates the wide range of different arguments used to justify either the transformationalist or skeptical position. At the same time, it highlights the strong argumentative burden of the transformationalist position, the way that belief in this position creates competitive pressures to achieve first-mover advantage, and the need to widen the concept of “expertise” in debates surrounding the future development of AI.\n\n\n\nMilitary Effectiveness and Naval Warfare (with Stephen Biddle). Security Studies, 33 (3): 325-47. 2024.\n\n\nAbstract\n\nMilitary effectiveness has attracted a growing literature, but this work has focused overwhelmingly on continental warfare. China’s rise highlights naval warfare. Do this literature’s central findings hold for war at sea? We explore this question by comparing patterns in naval and land combat via a new dataset on all interstate surface naval battles fought between 1649 and 1988. We find important differences deriving from the contrasting nature of the sea and land as military environments, which have made naval outcomes more sensitive to materiel, quicker, and more one-sided. But there are also important similarities involving material-nonmaterial interactions. These features pose important implications for policy on future anti-access/area denial (A2/AD) warfare in east Asia, the balance of investment in skill and materiel in naval resource allocation, and research on military effectiveness."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "John Severini",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nTime and the Nation: War, History, and Collective Identity in Classical Greece and Rome (Under review)\n\n\nWhere the Model Frequently Meets the Road: Combining Statistical, Formal, and Case Study Methods with Andrew Bennett and Bear Braumoeller"
+  },
+  {
+    "objectID": "research.html#works-in-progress",
+    "href": "research.html#works-in-progress",
+    "title": "John Severini",
+    "section": "Works in Progress",
+    "text": "Works in Progress\n\nState Capacity and Capital-Intensive Warfare: The Influence of Institutional Structure During the Anglo-Dutch Wars\n\n\nThe Division of Knowledge and the Problem of Synthesis"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "John Severini",
+    "section": "",
+    "text": "CV\n\n\nFor the most recent copy of my CV, click here:\nCurriculum Vitae\nUpdated as of December 23, 2025"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "John Severini",
+    "section": "",
+    "text": "About\n\n\n\n\nBefore joining Georgetown, I worked for Columbia University’s Saltzman Institute of War and Peace Studies (SIWPS) as well as for the Center for Strategic and International Studies (CSIS).\nI graduated with a BA in Political Science and Linguistics from The Ohio State University and an MPA in International Security Policy from Columbia’s School of International and Political Affairs (SIPA).\nI currently reside in Washington, DC."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "John Severini",
+    "section": "",
+    "text": "Contact\n\n\n\n\nEmail: jcs386@georgetown.edu\nGeorgetown360\n\n\nX: @john_severini\nBluesky: @johnseverini.bsky.social\nSubstack: @johnseverini\n\n\nLinkedIn\nGitHub\n\n\nGoogle Scholar\nResearchGate\nPhilPapers\nORCID\nRePEc\nSSRN"
+  },
+  {
+    "objectID": "data.html#navbattle",
+    "href": "data.html#navbattle",
+    "title": "John Severini",
+    "section": "NAVBATTLE",
+    "text": "NAVBATTLE\nAvailable on Harvard Dataverse as replication data for “Military Effectiveness and Naval Warfare.”\nNAVBATTLE is a new dataset for naval warfare. It is made up of two interlocking datasets: Ships and Battles, both of which can be found in the main NAVBATTLE file.\nThe Ships dataset details information on 10,396 warships constructed as early as 1623. It includes all warships that participated in at least one battle that meets the NAVBATTLE inclusion criteria. It lists a variety of information about these individual ships including their given name, class, armaments, and combat experience. The Battles dataset aggregates all its material and complement values from the Ships dataset.\nThe Battles dataset details information on 573 naval engagements beginning in the year 1649 and ending in the year 1988. It includes all 573 known oceangoing interstate surface naval battles between 1649 and 1988 with at least three major surface warships engaged and at least one on each side. The data encompass all 43 wars and conflicts with battles that meet these inclusion criteria. “Major surface warships” are defined as frigates or larger combatants in the Age of Sail, destroyers or larger combatants in the Age of Steam, and long-range anti-ship missile equipped vessels of at least 65 tons displacement in the post-World War II era. Battles involving submarines, aircraft, mines, and coastal artillery are included if they meet the surface-warship inclusion criterion, but not otherwise. Naval shore bombardments without hostile surface warships are thus excluded, as are aerial battles without surface warships on both sides (aircraft carriers are considered surface warships) and submarine attacks on merchant ships where the action did not involve at least one surface warship on each side. These NAVBATTLE data include observations on losses in ships, personnel, and tonnage; victories, defeats, and draws; battle duration; material balances in ships, guns, and displacement; battle dates and geo-coded locations; and identification of commanders and nationalities. Codings for victories, defeats, and draws represent consensus views among historical accounts, and reflect the relationship between battle outcomes and combatant objectives.\nNAVBATTLE also includes a Battle Visualizer that combines the Ships and Battles datasets together for a useful visual aid showing all ships present in each battle."
+  },
+  {
+    "objectID": "policy-writing.html#commentary",
+    "href": "policy-writing.html#commentary",
+    "title": "John Severini",
+    "section": "Commentary",
+    "text": "Commentary\n\nDigital Frontiers, Corporate Sovereignty, and the Future of the CEO. Corporate Political Responsibility, February 27, 2024."
+  },
+  {
+    "objectID": "policy-writing.html#policy-reports",
+    "href": "policy-writing.html#policy-reports",
+    "title": "John Severini",
+    "section": "Policy Reports",
+    "text": "Policy Reports\n\nEmpirical Analysis for Meeting Great Power Challenges (with Stephen Biddle, Eli Berman, Eric Min, Laura Samotin, and Meyer Thalheimer). Office of Naval Research. February 1, 2024.\n\n\nAbstract\n\nThe project is intended to support the National Defense Strategy by identifying factors that will shape the ability of great powers such as China or Russia to use new technology and new strategies effectively. It does this by exploiting new data sources and novel research methodologies to build stronger theories of combat outcomes in modern great power warfare. From these findings, we draw implications for U.S. policies to deter such rivals, and to project power successfully if deterrence fails.\n\n\n\nAssessing the Reliability of the Future Years Defense Program and Building a Forecast (with Andrew Hunter and Gregory Sanders). Acquisition Research Program, May 10, 2021.\n\n\nAbstract\n\nDiscerning, negotiating, and communicating priorities are necessary tasks for the U.S. defense acquisition system to effectively implement its portion of the National Defense Strategy. One of the Department of Defense’s central tools for doing so is the Future Years Defense Plan (FYDP), a projection of the cost and composition of the force over the next 5 years. This project created a dataset and employs it to study FYDP reliability, focusing on two sources of uncertainty: differences in approach between military departments and differences in volatility between those line items in the base budget and those that include contingency operation spending."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "John Severini",
+    "section": "",
+    "text": "Research"
+  },
+  {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "John Severini",
+    "section": "",
+    "text": "Data"
+  },
+  {
+    "objectID": "policy-writing.html",
+    "href": "policy-writing.html",
+    "title": "John Severini",
+    "section": "",
+    "text": "Policy Writing"
+  }
+]

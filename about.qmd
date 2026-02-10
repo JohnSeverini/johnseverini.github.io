@@ -1,0 +1,28 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.page-banner}
+![](images/banner.png)
+
+[About]{.banner-title}
+:::
+
+::: {.page-content .page-content-wide}
+
+::: {.about-layout}
+::: {.about-text}
+Before joining Georgetown, I worked for Columbia University's [Saltzman Institute of War and Peace Studies (SIWPS)](https://www.siwps.org/) as well as for the [Center for Strategic and International Studies (CSIS)](https://www.csis.org/).
+
+I graduated with a BA in Political Science and Linguistics from The Ohio State University and an MPA in International Security Policy from Columbia's School of International and Political Affairs (SIPA).
+
+I currently reside in Washington, DC.
+:::
+
+::: {.about-photo}
+![](images/headshot.jpg)
+:::
+:::
+:::

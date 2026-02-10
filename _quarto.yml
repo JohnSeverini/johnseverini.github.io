@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "John Severini"
+  description: "Political Science PhD Student, Georgetown University"
+  search: false
+  favicon: images/js.png #
+  navbar:
+    background: dark
+    title: "John Severini"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Data"
+        href: data.qmd
+      - text: "Policy Writing"
+        href: policy-writing.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    center: "© 2026 John Severini"
+    background: "#2c2c2c"
+    foreground: "#cccccc"
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    page-layout: full

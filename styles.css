@@ -1,0 +1,464 @@
+/* ============================================
+   johnseverini.github.io — Inspiro replica
+   ============================================ */
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif !important;
+  color: #333;
+  line-height: 1.7;
+  margin: 0;
+  padding: 0;
+}
+
+/* ============================================
+   HOMEPAGE: lock viewport, no scroll, no footer
+   ============================================ */
+body.page-layout-custom {
+  overflow: hidden !important;
+  height: 100vh !important;
+}
+
+.page-layout-custom #quarto-content {
+  overflow: hidden !important;
+}
+
+/* Hide footer on ALL pages */
+.nav-footer,
+footer,
+#quarto-footer {
+  display: none !important;
+}
+
+/* Kill horizontal scroll globally */
+html,
+body {
+  overflow-x: hidden !important;
+}
+
+/* ============================================
+   NAVBAR
+   WordPress: brand + links as a centered group
+   with space-between, sitting in the middle
+   band of the page (not flush left).
+   ============================================ */
+#quarto-header nav.navbar,
+nav.navbar {
+  background-color: transparent !important;
+  background: transparent !important;
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  padding: 1.2rem 0 !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+nav.navbar .container-fluid,
+nav.navbar > .container-fluid {
+  max-width: 1050px !important;
+  margin: 0 auto !important;
+  padding: 0 2rem !important;
+  display: flex !important;
+  justify-content: flex-start !important;
+  align-items: center !important;
+}
+
+/* Brand */
+nav.navbar .navbar-brand,
+#quarto-header .navbar-brand {
+  font-family: "Roboto", sans-serif !important;
+  font-weight: 700 !important;
+  font-size: 1.4rem !important;
+  color: #fff !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.1em !important;
+  margin-right: 2.5rem !important;
+  flex-shrink: 0 !important;
+}
+
+/* Nav links — wider spacing */
+nav.navbar .navbar-nav,
+#quarto-header .navbar-nav {
+  gap: 0.1rem !important;
+  flex-wrap: nowrap !important;
+}
+
+nav.navbar .navbar-nav .nav-link,
+#quarto-header .navbar-nav .nav-link {
+  font-family: "Montserrat", "Roboto", sans-serif !important;
+  color: #fff !important;
+  text-transform: capitalize !important;
+  font-size: 0.92rem !important;
+  font-weight: 400 !important;
+  letter-spacing: 0.01em !important;
+  padding: 0.5rem 1rem !important;
+  transition: opacity 0.2s ease;
+  white-space: nowrap !important;
+}
+
+nav.navbar .navbar-nav .nav-link:hover {
+  opacity: 0.75;
+}
+
+nav.navbar .navbar-nav .nav-link.active {
+  color: #fff !important;
+  border-bottom: 2px solid rgba(255, 255, 255, 0.7) !important;
+  padding-bottom: 0.35rem !important;
+}
+
+/* ============================================
+   HERO — full viewport
+   ============================================ */
+.hero-section {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  width: 100vw !important;
+  height: 100vh !important;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.hero-section img.hero-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+  z-index: 0;
+}
+
+/* Base dark overlay */
+.hero-section .hero-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: 1;
+}
+
+/* Bottom gradient — darker at bottom, lighter at top */
+.hero-section::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 0%,
+    rgba(0, 0, 0, 0) 40%,
+    rgba(0, 0, 0, 0.3) 100%
+  );
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* Mild vignette */
+.hero-section::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(
+    ellipse at center,
+    transparent 50%,
+    rgba(0, 0, 0, 0.15) 100%
+  );
+  z-index: 2;
+  pointer-events: none;
+}
+
+/* Bio text */
+.hero-section .hero-content {
+  position: relative;
+  z-index: 3;
+  max-width: 880px;
+  padding: 2rem;
+  margin-top: 8vh;
+  font-size: 1.15rem;
+  line-height: 1.7;
+  color: #fff;
+}
+
+.hero-section .hero-content p {
+  color: #fff !important;
+  font-family: "Roboto", sans-serif !important;
+  font-size: 1.15rem !important;
+  line-height: 1.7 !important;
+  margin: 0;
+}
+
+/* Bio links — cool blue italic */
+.hero-section .hero-content a {
+  color: #acdbf2 !important;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.hero-section .hero-content a:hover {
+  opacity: 0.85;
+}
+
+.hero-section .hero-content em {
+  font-style: italic;
+}
+
+/* ============================================
+   Kill Quarto spacing on custom layout
+   ============================================ */
+.page-layout-custom main.content,
+.page-layout-custom #quarto-content,
+.page-layout-custom #quarto-content > *,
+.page-layout-custom .page-columns {
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: 100% !important;
+  overflow: hidden !important;
+}
+
+/* ============================================
+   Generic Quarto spacing reset
+   ============================================ */
+#quarto-content {
+  padding-top: 0 !important;
+}
+
+main.content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+  max-width: 100% !important;
+}
+
+.page-layout-full .content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* ============================================
+   BANNER IMAGE — subpages
+   Navbar overlays the top of the banner.
+   Title overlaid on banner in white.
+   ============================================ */
+.page-banner {
+  position: relative;
+  width: 100vw;
+  height: 225px;
+  overflow: hidden;
+  margin-left: calc(-50vw + 50%);
+  margin-top: -70px;
+}
+
+.page-banner img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 140%;
+  object-fit: cover;
+  object-position: center center;
+}
+
+.page-banner .banner-title {
+  position: absolute;
+  bottom: 1.2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-size: 2.2rem;
+  font-weight: 700;
+  text-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
+  z-index: 2;
+}
+
+.page-banner::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: 1;
+}
+
+/* ============================================
+   PAGE CONTENT — subpages
+   ============================================ */
+.page-content {
+  max-width: 1000px;
+  margin: 2rem auto 3rem auto;
+  padding: 0 1.5rem;
+}
+
+.page-content.page-content-wide {
+  max-width: 1100px;
+}
+
+.page-content h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+  color: #222;
+}
+
+.page-content h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-top: 2.2rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.page-content p {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.page-content a {
+  color: #2c7be5;
+  text-decoration: none;
+}
+
+.page-content a:hover {
+  text-decoration: underline;
+}
+
+/* ============================================
+   Subpage: kill Quarto's top padding for navbar
+   ============================================ */
+.page-layout-full #quarto-content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+.page-layout-full main.content {
+  padding-top: 0 !important;
+  margin-top: 0 !important;
+}
+
+/* ============================================
+   ABOUT page
+   ============================================ */
+.about-layout {
+  display: flex;
+  gap: 3rem;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.about-text {
+  flex: 1;
+  min-width: 300px;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+.about-photo {
+  flex: 0 0 380px;
+}
+.about-photo img {
+  width: 100%;
+  border-radius: 0;
+}
+
+/* ============================================
+   CV page
+   ============================================ */
+/* CV page centering */
+.cv-centered {
+  text-align: center;
+}
+
+/* ============================================
+   RESEARCH
+   ============================================ */
+.pub-entry {
+  margin-bottom: 2rem;
+}
+
+.pub-abstract summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #2c7be5;
+}
+
+.pub-abstract summary:hover {
+  text-decoration: underline;
+}
+
+/* ============================================
+   CONTACT
+   ============================================ */
+/* CONTACT page centering */
+.contact-centered {
+  text-align: center;
+}
+
+.contact-links {
+  line-height: 2.2;
+}
+.contact-links a {
+  color: #2c7be5;
+  text-decoration: none;
+}
+.contact-links a:hover {
+  text-decoration: underline;
+}
+.contact-section {
+  margin-bottom: 1.5rem;
+}
+
+/* ============================================
+   FOOTER (subpages only)
+   ============================================ */
+.nav-footer {
+  font-size: 0.85rem;
+  padding: 1rem;
+}
+
+/* ============================================
+   RESPONSIVE
+   ============================================ */
+@media (max-width: 768px) {
+  .hero-section .hero-content {
+    font-size: 0.95rem !important;
+    padding: 1.5rem;
+    max-width: 90%;
+  }
+  .hero-section .hero-content p {
+    font-size: 0.95rem !important;
+  }
+  .about-layout {
+    flex-direction: column;
+  }
+  .about-photo {
+    flex: 0 0 auto;
+    max-width: 280px;
+  }
+  .page-banner {
+    height: 180px;
+  }
+  nav.navbar {
+    padding: 0.7rem 1rem !important;
+  }
+}

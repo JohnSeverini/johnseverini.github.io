@@ -1,0 +1,61 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.page-banner}
+![](images/banner.png)
+
+[Research]{.banner-title}
+:::
+
+::: {.page-content}
+
+## Peer-Reviewed Publications
+
+::: {.pub-entry}
+**Technology, Behavior, and Effectiveness in Naval Warfare: The Battles of Savo Island and Cape Saint George** (with Stephen Biddle). *International Security*, forthcoming.
+:::
+
+::: {.pub-entry}
+**[Making AI Inevitable: Historical Perspective and the Problems of Predicting Long-Term Technological Change](https://academic.oup.com/edited-volume/59762/chapter-abstract/508607722)** (with Mark Fisher). *Oxford Intersections: AI in Society*. 2025.
+
+Preprint available on [arXiv](https://arxiv.org/abs/2508.16692) / [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5404686).
+
+<details class="pub-abstract">
+<summary>Abstract</summary>
+This article demonstrates the extent to which prominent debates about the future of AI are best understood as subjective, philosophical disagreements over the history and future of technological change rather than as objective, material disagreements over the technologies themselves. It focuses on the deep disagreements over whether artificial general intelligence (AGI) will prove transformative for human society—a question that is analytically prior to that of whether this transformative effect will help or harm humanity. The article begins by distinguishing two fundamental camps in this debate. The first of these can be identified as "transformationalists," who argue that continued AI development will inevitably have a profound effect on society. Opposed to them are "skeptics," a more eclectic group united by their disbelief that AI can or will live up to such high expectations. Each camp admits further "strong" and "weak" variants depending on their tolerance for epistemic risk. These stylized contrasts help identify a set of fundamental questions that shape the camps' respective interpretations of the future of AI. Three questions in particular are focused on: the possibility of nonbiological intelligence, the appropriate time frame of technological predictions, and the assumed trajectory of technological development. In highlighting these specific points of nontechnical disagreement, this article demonstrates the wide range of different arguments used to justify either the transformationalist or skeptical position. At the same time, it highlights the strong argumentative burden of the transformationalist position, the way that belief in this position creates competitive pressures to achieve first-mover advantage, and the need to widen the concept of "expertise" in debates surrounding the future development of AI.
+</details>
+:::
+
+::: {.pub-entry}
+**[Military Effectiveness and Naval Warfare](https://www.tandfonline.com/doi/full/10.1080/09636412.2024.2363533)** (with Stephen Biddle). *Security Studies*, 33 (3): 325-47. 2024.
+
+<details class="pub-abstract">
+<summary>Abstract</summary>
+Military effectiveness has attracted a growing literature, but this work has focused overwhelmingly on continental warfare. China's rise highlights naval warfare. Do this literature's central findings hold for war at sea? We explore this question by comparing patterns in naval and land combat via a new dataset on all interstate surface naval battles fought between 1649 and 1988. We find important differences deriving from the contrasting nature of the sea and land as military environments, which have made naval outcomes more sensitive to materiel, quicker, and more one-sided. But there are also important similarities involving material-nonmaterial interactions. These features pose important implications for policy on future anti-access/area denial (A2/AD) warfare in east Asia, the balance of investment in skill and materiel in naval resource allocation, and research on military effectiveness.
+</details>
+:::
+
+## Working Papers
+
+::: {.pub-entry}
+**Time and the Nation: War, History, and Collective Identity in Classical Greece and Rome** (Under review)
+:::
+
+::: {.pub-entry}
+**Where the Model Frequently Meets the Road: Combining Statistical, Formal, and Case Study Methods** with Andrew Bennett and Bear Braumoeller
+:::
+
+## Works in Progress
+
+::: {.pub-entry}
+State Capacity and Capital-Intensive Warfare: The Influence of Institutional Structure During the Anglo-Dutch Wars
+:::
+
+::: {.pub-entry}
+The Division of Knowledge and the Problem of Synthesis
+:::
+
+:::
