@@ -1,5 +1,7 @@
 ---
-title: ""
+pagetitle: "About"
+description: "Biographical information about John Severini, PhD Student at Georgetown University."
+image: images/headshot.jpg
 page-layout: full
 toc: false
 ---

@@ -1,13 +1,22 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - robots.txt
 
 website:
   title: "John Severini"
   site-url: "https://johnseverini.com"
   description: "PhD Candidate in Political Science at Georgetown University."
-  open-graph: true
-  twitter-card: true
+  open-graph:
+    title: "John Severini"
+    description: "PhD Student at Georgetown University"
+    image: images/headshot.jpg
+  twitter-card:
+    title: "John Severini"
+    description: "PhD Student at Georgetown University"
+    image: images/headshot.jpg
+    creator: "@john_severini"
   image: "images/headshot.jpg"
   search: false
   favicon: images/js.png #

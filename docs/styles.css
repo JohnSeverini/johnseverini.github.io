@@ -488,3 +488,8 @@ nav.navbar.scrolled {
     margin-top: 0.5rem !important;
   }
 }
+
+/* Account for fixed navbar on subpages */
+.page-layout-full #quarto-content {
+  padding-top: 70px !important;
+}

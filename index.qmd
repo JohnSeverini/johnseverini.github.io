@@ -1,5 +1,7 @@
 ---
-title: ""
+pagetitle: "John Severini"
+description: "PhD Student at Georgetown University studying International Relations, Political Theory, and Political Methodology."
+image: images/headshot.jpg
 page-layout: custom
 toc: false
 ---

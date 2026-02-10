@@ -1,5 +1,7 @@
 ---
-title: ""
+pagetitle: "CV"
+description: "Curriculum Vitae for John Severini."
+image: images/headshot.jpg
 page-layout: full
 toc: false
 ---

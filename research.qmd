@@ -1,5 +1,7 @@
 ---
-title: ""
+pagetitle: "Research"
+description: "Research publications, working papers, and works in project by John Severini."
+image: images/headshot.jpg
 page-layout: full
 toc: false
 ---
