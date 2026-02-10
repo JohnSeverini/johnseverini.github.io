@@ -15,7 +15,7 @@ toc: false
 ::: {.page-content .cv-centered}
 For the most recent copy of my CV, click here:
 
-**[Curriculum Vitae](files/John_Severini-CV.pdf)**
+**[Curriculum Vitae](files/John_Severini - CV - 2025-12-23.pdf)**
 
 Updated as of December 23, 2025
 :::
