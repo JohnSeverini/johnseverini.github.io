@@ -23,7 +23,7 @@ toc: false
 ## Policy Reports
 
 ::: {.pub-entry}
-**[Empirical Analysis for Meeting Great Power Challenges](https://apps.dtic.mil/sti/html/trecms/AD1220530/)** (with Stephen Biddle, Eli Berman, Eric Min, Laura Samotin, and Meyer Thalheimer). Office of Naval Research. February 1, 2024.
+[**Empirical Analysis for Meeting Great Power Challenges**](https://apps.dtic.mil/sti/html/trecms/AD1220530/) (with Stephen Biddle, Eli Berman, Eric Min, Laura Samotin, and Meyer Thalheimer). Office of Naval Research. February 1, 2024.
 
 <details class="pub-abstract">
 <summary>Abstract</summary>

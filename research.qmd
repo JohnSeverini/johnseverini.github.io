@@ -21,7 +21,7 @@ toc: false
 :::
 
 ::: {.pub-entry}
-**[Making AI Inevitable: Historical Perspective and the Problems of Predicting Long-Term Technological Change](https://academic.oup.com/edited-volume/59762/chapter-abstract/508607722)** (with Mark Fisher). *Oxford Intersections: AI in Society*. 2025.
+[**Making AI Inevitable: Historical Perspective and the Problems of Predicting Long-Term Technological Change**](https://academic.oup.com/edited-volume/59762/chapter-abstract/508607722) (with Mark Fisher). *Oxford Intersections: AI in Society*. 2025.
 
 Preprint available on [arXiv](https://arxiv.org/abs/2508.16692) / [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5404686).
 
@@ -32,7 +32,7 @@ This article demonstrates the extent to which prominent debates about the future
 :::
 
 ::: {.pub-entry}
-**[Military Effectiveness and Naval Warfare](https://www.tandfonline.com/doi/full/10.1080/09636412.2024.2363533)** (with Stephen Biddle). *Security Studies*, 33 (3): 325-47. 2024.
+[**Military Effectiveness and Naval Warfare**](https://www.tandfonline.com/doi/full/10.1080/09636412.2024.2363533) (with Stephen Biddle). *Security Studies*, 33 (3): 325-47. 2024.
 
 <details class="pub-abstract">
 <summary>Abstract</summary>
@@ -58,6 +58,10 @@ State Capacity and Capital-Intensive Warfare: The Influence of Institutional Str
 
 ::: {.pub-entry}
 The Division of Knowledge and the Problem of Synthesis
+:::
+
+::: {.pub-entry}
+Prediction Markets and Battlefield Decision-Making
 :::
 
 :::
