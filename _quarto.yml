@@ -4,7 +4,11 @@ project:
 
 website:
   title: "John Severini"
-  description: "Political Science PhD Student, Georgetown University"
+  site-url: "https://johnseverini.com"
+  description: "PhD Candidate in Political Science at Georgetown University."
+  open-graph: true
+  twitter-card: true
+  image: "images/headshot.jpg"
   search: false
   favicon: images/js.png #
   navbar:
