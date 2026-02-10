@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "John Severini",
+    "section": "",
+    "text": "Research"
+  },
+  {
     "objectID": "research.html#peer-reviewed-publications",
     "href": "research.html#peer-reviewed-publications",
     "title": "John Severini",
@@ -42,11 +49,25 @@
     "text": "Contact\n\n\n\n\nEmail: jcs386@georgetown.edu\nGeorgetown360\n\n\nX: @john_severini\nBluesky: @johnseverini.bsky.social\nSubstack: @johnseverini\n\n\nLinkedIn\nGitHub\n\n\nGoogle Scholar\nResearchGate\nPhilPapers\nORCID\nRePEc\nSSRN"
   },
   {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "John Severini",
+    "section": "",
+    "text": "Data"
+  },
+  {
     "objectID": "data.html#navbattle",
     "href": "data.html#navbattle",
     "title": "John Severini",
     "section": "NAVBATTLE",
     "text": "NAVBATTLE\nAvailable on Harvard Dataverse as replication data for “Military Effectiveness and Naval Warfare.”\nNAVBATTLE is a new dataset for naval warfare. It is made up of two interlocking datasets: Ships and Battles, both of which can be found in the main NAVBATTLE file.\nThe Ships dataset details information on 10,396 warships constructed as early as 1623. It includes all warships that participated in at least one battle that meets the NAVBATTLE inclusion criteria. It lists a variety of information about these individual ships including their given name, class, armaments, and combat experience. The Battles dataset aggregates all its material and complement values from the Ships dataset.\nThe Battles dataset details information on 573 naval engagements beginning in the year 1649 and ending in the year 1988. It includes all 573 known oceangoing interstate surface naval battles between 1649 and 1988 with at least three major surface warships engaged and at least one on each side. The data encompass all 43 wars and conflicts with battles that meet these inclusion criteria. “Major surface warships” are defined as frigates or larger combatants in the Age of Sail, destroyers or larger combatants in the Age of Steam, and long-range anti-ship missile equipped vessels of at least 65 tons displacement in the post-World War II era. Battles involving submarines, aircraft, mines, and coastal artillery are included if they meet the surface-warship inclusion criterion, but not otherwise. Naval shore bombardments without hostile surface warships are thus excluded, as are aerial battles without surface warships on both sides (aircraft carriers are considered surface warships) and submarine attacks on merchant ships where the action did not involve at least one surface warship on each side. These NAVBATTLE data include observations on losses in ships, personnel, and tonnage; victories, defeats, and draws; battle duration; material balances in ships, guns, and displacement; battle dates and geo-coded locations; and identification of commanders and nationalities. Codings for victories, defeats, and draws represent consensus views among historical accounts, and reflect the relationship between battle outcomes and combatant objectives.\nNAVBATTLE also includes a Battle Visualizer that combines the Ships and Battles datasets together for a useful visual aid showing all ships present in each battle."
+  },
+  {
+    "objectID": "policy-writing.html",
+    "href": "policy-writing.html",
+    "title": "John Severini",
+    "section": "",
+    "text": "Policy Writing"
   },
   {
     "objectID": "policy-writing.html#commentary",
@@ -61,26 +82,5 @@
     "title": "John Severini",
     "section": "Policy Reports",
     "text": "Policy Reports\n\nEmpirical Analysis for Meeting Great Power Challenges (with Stephen Biddle, Eli Berman, Eric Min, Laura Samotin, and Meyer Thalheimer). Office of Naval Research. February 1, 2024.\n\n\nAbstract\n\nThe project is intended to support the National Defense Strategy by identifying factors that will shape the ability of great powers such as China or Russia to use new technology and new strategies effectively. It does this by exploiting new data sources and novel research methodologies to build stronger theories of combat outcomes in modern great power warfare. From these findings, we draw implications for U.S. policies to deter such rivals, and to project power successfully if deterrence fails.\n\n\n\nAssessing the Reliability of the Future Years Defense Program and Building a Forecast (with Andrew Hunter and Gregory Sanders). Acquisition Research Program, May 10, 2021.\n\n\nAbstract\n\nDiscerning, negotiating, and communicating priorities are necessary tasks for the U.S. defense acquisition system to effectively implement its portion of the National Defense Strategy. One of the Department of Defense’s central tools for doing so is the Future Years Defense Plan (FYDP), a projection of the cost and composition of the force over the next 5 years. This project created a dataset and employs it to study FYDP reliability, focusing on two sources of uncertainty: differences in approach between military departments and differences in volatility between those line items in the base budget and those that include contingency operation spending."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "John Severini",
-    "section": "",
-    "text": "Research"
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "John Severini",
-    "section": "",
-    "text": "Data"
-  },
-  {
-    "objectID": "policy-writing.html",
-    "href": "policy-writing.html",
-    "title": "John Severini",
-    "section": "",
-    "text": "Policy Writing"
   }
 ]
