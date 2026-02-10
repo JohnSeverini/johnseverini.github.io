@@ -577,6 +577,16 @@ Substack: <a href="https://substack.com/@johnseverini?">@johnseverini</a></p>
     </div>
   </div>
 </footer>
+<script>
+  window.addEventListener('scroll', function() {
+    const navbar = document.querySelector('nav.navbar');
+    if (window.scrollY > 50) {
+      navbar.classList.add('scrolled');
+    } else {
+      navbar.classList.remove('scrolled');
+    }
+  });
+</script>
 
 
 
