@@ -43,15 +43,15 @@ Military effectiveness has attracted a growing literature, but this work has foc
 ## Working Papers
 
 ::: {.pub-entry}
-**Time and the Nation: War, History, and Collective Identity in Classical Greece and Rome** (Revise and Resubmit)
+**The Synthesis Problem: Knowledge Production Integration in the Age of AI**
+:::
+
+::: {.pub-entry}
+**Prediction Markets and War**
 :::
 
 ::: {.pub-entry}
 **Where the Model Frequently Meets the Road: Combining Statistical, Formal, and Case Study Methods** with Andrew Bennett and Bear Braumoeller
-:::
-
-::: {.pub-entry}
-**Defining Militarism: Towards an Empirical Framework**
 :::
 
 ## Works in Progress
@@ -61,11 +61,11 @@ State Capacity and Capital-Intensive Warfare: The Influence of Institutional Str
 :::
 
 ::: {.pub-entry}
-The Division of Knowledge and the Problem of Synthesis
+Defining Militarism: Towards an Empirical Framework
 :::
 
 ::: {.pub-entry}
-Prediction Markets and Battlefield Decision-Making
+Time and the Nation: War, History, and Collective Identity
 :::
 
 :::
