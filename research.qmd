@@ -43,7 +43,7 @@ Military effectiveness has attracted a growing literature, but this work has foc
 ## Working Papers
 
 ::: {.pub-entry}
-**The Synthesis Problem: Knowledge Production Integration in the Age of AI**
+**The Synthesis Problem: Knowledge Production and Integration in the Age of AI**
 :::
 
 ::: {.pub-entry}
