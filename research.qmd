@@ -17,7 +17,12 @@ toc: false
 ## Peer-Reviewed Publications
 
 ::: {.pub-entry}
-**Technology, Behavior, and Effectiveness in Naval Warfare: The Battles of Savo Island and Cape Saint George** (with Stephen Biddle). *International Security*, forthcoming.
+[**Technology, Behavior, and Effectiveness in Naval Warfare: The Battles of Savo Island and Cape Saint George**](https://direct.mit.edu/isec/article/50/3/156/135680/Technology-Behavior-and-Effectiveness-in-Naval) (with Stephen Biddle). *International Security*, 50 (3): 156-191. 2026.
+
+<details class="pub-abstract">
+<summary>Abstract</summary>
+What explains success and failure in naval warfare? Most political science research on military effectiveness focuses on land combat, often overlooking how behavior shapes outcomes at sea. This article uses a paired comparison of two World War II naval battles—Savo Island and Cape Saint George—to examine how material and nonmaterial factors interact in maritime conflict. In both battles, U.S. forces held significant material and technological advantages, yet they suffered a catastrophic defeat in the former and achieved a lopsided victory in the latter. The decisive difference, we argue, lay in commanders’ behavioral choices, organizational structure, and crew proficiency in using technology under stress. Using case study comparison and counterfactual analysis, we demonstrate how similar material conditions produced dramatically different outcomes as a result of variation in nonmaterial performance. These findings suggest that naval combat is more sensitive to human factors than prevailing materialist assessments acknowledge. As U.S.-China competition intensifies in the Western Pacific, our analysis calls for greater attention to training, leadership, and doctrine when evaluating the implications of China's growing material power. Naval warfare is a deeply social process, and understanding its outcomes requires integrating human behavior with technological and material analysis.
+</details>
 :::
 
 ::: {.pub-entry}
