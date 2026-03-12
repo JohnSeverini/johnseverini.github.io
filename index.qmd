@@ -7,7 +7,7 @@ toc: false
 ---
 
 ::: {.hero-section}
-![](images/hero.png){.hero-bg}
+![](images/banner.png){.hero-bg}
 
 ::: {.hero-overlay}
 :::

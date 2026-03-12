@@ -2,7 +2,9 @@
   "permissions": {
     "allow": [
       "Bash(git fetch:*)",
-      "Bash(git pull:*)"
+      "Bash(git pull:*)",
+      "Bash(python generate_context_diagram.py)",
+      "Bash(python brownbag/scripts/generate_pipeline_diagram.py)"
     ]
   }
 }
