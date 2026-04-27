@@ -17,6 +17,10 @@ toc: false
 ## Commentary
 
 ::: {.pub-entry}
+[**The Importance of the Battle of Savo Island**](https://warontherocks.com/the-importance-of-the-battle-of-savo-island/) (with Stephen Biddle). *War on the Rocks*, April 27, 2026.
+:::
+
+::: {.pub-entry}
 [**Digital Frontiers, Corporate Sovereignty, and the Future of the CEO**](https://www.corporate-political-responsibility.org/post/second-place-essay-2024-by-john-severini). *Corporate Political Responsibility*, February 27, 2024.
 :::
 
