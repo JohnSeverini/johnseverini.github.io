@@ -17,6 +17,10 @@ toc: false
 ## Commentary
 
 ::: {.pub-entry}
+[**The Limits of Naval Technology Alone**](https://www.lawfaremedia.org/article/the-limits-of-naval-technology-alone) (with Stephen Biddle). *Lawfare*, May 17, 2026.
+:::
+
+::: {.pub-entry}
 [**The Importance of the Battle of Savo Island**](https://warontherocks.com/the-importance-of-the-battle-of-savo-island/) (with Stephen Biddle). *War on the Rocks*, April 27, 2026.
 :::
 
