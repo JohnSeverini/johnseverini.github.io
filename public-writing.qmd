@@ -1,15 +1,17 @@
 ---
-pagetitle: "Policy Writing"
-description: "Policy and other writing by John Severini."
+pagetitle: "Public Writing"
+description: "Essays, commentary, and policy reports by John Severini."
 image: images/headshot.jpg
 page-layout: full
 toc: false
+aliases:
+  - policy-writing.html
 ---
 
 ::: {.page-banner}
 ![](images/banner.png)
 
-[Policy Writing]{.banner-title}
+[Public Writing]{.banner-title}
 :::
 
 ::: {.page-content}

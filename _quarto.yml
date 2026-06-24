@@ -38,8 +38,8 @@ website:
         href: research.qmd
       - text: "Data"
         href: data.qmd
-      - text: "Policy Writing"
-        href: policy-writing.qmd
+      - text: "Public Writing"
+        href: public-writing.qmd
       - text: "Contact"
         href: contact.qmd
   page-footer:
