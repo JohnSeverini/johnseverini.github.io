@@ -395,6 +395,19 @@ main.content {
   margin-bottom: 2rem;
 }
 
+.pub-note {
+  display: block;
+  margin-top: 0.15rem;
+  margin-left: 2rem;
+  padding-left: 1.25rem;
+  text-indent: -1.25rem;
+  font-size: 0.95rem;
+}
+
+.pub-note::before {
+  content: "\2013\00a0";
+}
+
 .pub-abstract summary {
   cursor: pointer;
   font-weight: 600;
