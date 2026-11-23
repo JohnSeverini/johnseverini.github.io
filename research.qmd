@@ -48,7 +48,7 @@ Military effectiveness has attracted a growing literature, but this work has foc
 ## Working Papers
 
 ::: {.pub-entry}
-**Where the Model Frequently Meets the Road: Combining Statistical, Formal, and Case Study Methods** with Andrew Bennett and Bear Braumoeller**
+**Where the Model Frequently Meets the Road: Combining Statistical, Formal, and Case Study Methods** with Andrew Bennett and Bear Braumoeller
 
 Preprint available on [arXiv](https://arxiv.org/abs/2202.08062) / [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7733798).
 
