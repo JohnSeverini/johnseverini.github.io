@@ -48,7 +48,7 @@ Military effectiveness has attracted a growing literature, but this work has foc
 ## Working Papers
 
 ::: {.pub-entry}
-**Where the Model Frequently Meets the Road: Combining Statistical, Formal, and Case Study Methods** with Andrew Bennett and Bear Braumoeller
+**Where the Model Frequently Meets the Road: Combining Statistical, Formal, and Case Study Methods** with Andrew Bennett and Bear Braumoeller *(Under Review)*
 
 Preprint available on [arXiv](https://arxiv.org/abs/2202.08062) / [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7733798).
 
@@ -60,6 +60,12 @@ This paper briefly analyzes the working or default assumptions researchers in th
 
 ::: {.pub-entry}
 **Producing More, Learning Less: AI and the Burden of Knowledge in Political Science**
+
+<details class="pub-abstract">
+<summary>Abstract</summary>
+Political scientists are producing more research than ever. Consequently, a burden of knowledge is emerging as new scholars must absorb more before they can contribute. How well is the discipline actually learning from all this new work? Across the sciences, research has grown steadily less ``disruptive,'' more often extending prior work than redirecting it. Political science is no different. Such a decline in disruptive work could mean two very different things. The discipline may be maturing around shared foundations, or its subfields may be turning inward, each building on its own canon in isolation. To distinguish between these possibilities, I measure both the disruption and breadth of citations for 126 political science and 70 economics journals inside a 508-journal citation universe that resolves 21.4 million citations from 1990 to 2024. Political science is consolidating, and the movement divides almost evenly between the two readings. Articles that cite broadly and redirect the discipline have fallen by nearly half. The discipline's broadest journals were once its most redirecting and are now its most consolidating. Articles that extend a canon in isolation are now, narrowly, the discipline's largest type of work. Yet how broadly articles cite has barely changed in thirty-five years, an outcome neither reading predicts. AI-accelerated production sharpens the stakes of this issue, because the tools driving it most cheapen exactly that narrow, canon-extending work.
+</details>
+
 :::
 
 ::: {.pub-entry}
